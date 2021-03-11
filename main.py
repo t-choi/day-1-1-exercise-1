@@ -1,5 +1,7 @@
 #Write your code below this line 👇
-
+print("Day 1 - Python Print Function")
+print("The function is decalared like this")
+print("print(Day 1 - Python Print Function)")
 
 
 
